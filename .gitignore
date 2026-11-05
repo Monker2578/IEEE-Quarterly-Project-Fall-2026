@@ -66,3 +66,9 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# PlatformIO
+.pio/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
